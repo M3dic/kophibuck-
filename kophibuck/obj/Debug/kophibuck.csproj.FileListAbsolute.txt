@@ -1,0 +1,112 @@
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\bin\Debug\kophibuck.exe.config
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\bin\Debug\kophibuck.exe
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\bin\Debug\kophibuck.pdb
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.csprojAssemblyReference.cache
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.Form1.resources
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.Properties.Resources.resources
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.GenerateResource.cache
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.exe
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.pdb
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.AllVariants.resources
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.Cafeteria.resources
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.SignUp.resources
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\bin\Debug\MySql.Data.dll
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\bin\Debug\MySql.Data.xml
+C:\Users\hristo\Documents\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.CopyComplete
+D:\IT kariera Software\kophibuck\kophibuck\bin\Debug\kophibuck.exe.config
+D:\IT kariera Software\kophibuck\kophibuck\bin\Debug\kophibuck.exe
+D:\IT kariera Software\kophibuck\kophibuck\bin\Debug\kophibuck.pdb
+D:\IT kariera Software\kophibuck\kophibuck\bin\Debug\MySql.Data.xml
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.csprojAssemblyReference.cache
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.AllVariants.resources
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.Cafeteria.resources
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.Form1.resources
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.Properties.Resources.resources
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.SignUp.resources
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.GenerateResource.cache
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.CoreCompileInputs.cache
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.CopyComplete
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.exe
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.pdb
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.CheckKindCustomer.resources
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.Form2.resources
+D:\IT kariera Software\kophibuck\kophibuck\obj\Debug\kophibuck.AllVariantsAdmin.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\bin\Debug\kophibuck.exe.config
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\bin\Debug\kophibuck.exe
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\bin\Debug\kophibuck.pdb
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\bin\Debug\MySql.Data.xml
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.csprojAssemblyReference.cache
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.AllVariants.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.AllVariantsAdmin.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.Cafeteria.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.CafeteriaAdmin.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.CheckKindCustomer.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.Form1.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.Form2.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.Properties.Resources.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.SignUp.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.GenerateResource.cache
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.CoreCompileInputs.cache
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.CopyComplete
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.exe
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.pdb
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\bin\Debug\kophibuck.exe.config
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\bin\Debug\kophibuck.exe
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\bin\Debug\kophibuck.pdb
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\bin\Debug\MySql.Data.xml
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.csprojAssemblyReference.cache
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.AllVariants.resources
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.AllVariantsAdmin.resources
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.Cafeteria.resources
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.CafeteriaAdmin.resources
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.CheckKindCustomer.resources
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.Form1.resources
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.Form2.resources
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.Properties.Resources.resources
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.SignUp.resources
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.GenerateResource.cache
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.CoreCompileInputs.cache
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.CopyComplete
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.exe
+C:\Users\hristo\Desktop\kophibuck\kophibuck\kophibuck\obj\Debug\kophibuck.pdb
+D:\kophibuck\kophibuck\bin\Debug\kophibuck.exe.config
+D:\kophibuck\kophibuck\bin\Debug\kophibuck.exe
+D:\kophibuck\kophibuck\bin\Debug\kophibuck.pdb
+D:\kophibuck\kophibuck\bin\Debug\MySql.Data.xml
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.csprojAssemblyReference.cache
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.AllVariants.resources
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.AllVariantsAdmin.resources
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.Cafeteria.resources
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.CheckKindCustomer.resources
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.Form1.resources
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.Form2.resources
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.Properties.Resources.resources
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.SignUp.resources
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.GenerateResource.cache
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.CoreCompileInputs.cache
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.CopyComplete
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.exe
+D:\kophibuck\kophibuck\obj\Debug\kophibuck.pdb
+D:\kophibuck\kophibuck\bin\Debug\nunit.framework.dll
+D:\kophibuck\kophibuck\bin\Debug\nunit.framework.xml
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.csprojAssemblyReference.cache
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.AllVariants.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.AllVariantsAdmin.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.Cafeteria.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.CheckKindCustomer.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.Form1.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.Form2.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.Properties.Resources.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.SignUp.resources
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.GenerateResource.cache
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.CoreCompileInputs.cache
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.exe
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.pdb
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\bin\Debug\kophibuck.exe.config
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\bin\Debug\kophibuck.exe
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\bin\Debug\kophibuck.pdb
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\bin\Debug\nunit.framework.dll
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\bin\Debug\MySql.Data.xml
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\bin\Debug\nunit.framework.xml
+C:\Users\ivo_r\OneDrive\Работен плот\kophibuck\kophibuck\obj\Debug\kophibuck.csproj.CopyComplete
